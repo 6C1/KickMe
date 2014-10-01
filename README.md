@@ -10,4 +10,4 @@ The following set of access specifiers are valid in KickMe, and are applicable t
 * __antiprotected__ restricts access to only other classes, or subclasses of the current class, blocking any access from the current class.
 * __antipublic__ totally restricts access, blocking any access from any class. This is the default behavior of a class member.
 
-Under no circumstances may a class access its own members.
+Under __no__ circumstances may a class access its own members.
