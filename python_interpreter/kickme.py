@@ -3,7 +3,7 @@ import argparse
 
 # @todo write this
 
-def main.py():
+def main():
 	
 	# Parse cli arguments
 	parser = argparse.ArgumentParser()
