@@ -1,9 +1,8 @@
-KickMe
-======
+# KickMe
 
 An object-oriented language which inverts traditional notions of member accessibility and data encapsulation.
 
-=== Member accessibility ===
+### Member accessibility
 
 The following set of access specifiers are valid in KickMe, and are applicable to both class attributes and methods:
 
